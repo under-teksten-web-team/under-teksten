@@ -3,5 +3,8 @@ color: blue;
 }
 h1 {
 font-size: 40px;  
-  font-family: Trebuchet_MS ' Helvetica;
+  font-family:Helvetica;
+}
+#class {
+ display: inline; 
 }
