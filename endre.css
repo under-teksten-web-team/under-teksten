@@ -8,3 +8,7 @@ font-size: 40px;
 p {
  display: inline; 
 }
+.title {
+ text-align: center; 
+  font-weight: 100;
+}
